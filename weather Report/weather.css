@@ -1,0 +1,45 @@
+.container{
+    background-image:url("https://th.bing.com/th/id/OIP.ZC40JcdQYNoOgCsAP2-6YwHaEs?rs=1&pid=ImgDetMain");
+    background-size:cover;
+    height:488px;
+    padding:50px;
+    text-align:center;
+}
+.input-container{
+    margin-top:120px;
+    background-color: antiquewhite;
+    padding:30px;
+    margin:10px;
+}
+.button{
+    background-color:blue;
+    color:white;
+    border-radius:3px;
+    border-width:0px;
+    height:30px;
+    width:60px;
+}
+.input{
+    width:200px;
+    height:30px;
+}
+.heading{
+    background-color:blue;
+    color:white;
+}
+.results-container{
+    background-color:aqua;
+    margin:10px;
+    display: none;
+    padding-bottom:20px;
+}
+#span{
+    color:red;
+}
+span{
+    color:#5e0df4;
+    margin:10px;
+}
+p{
+    font-size:22px;
+}
